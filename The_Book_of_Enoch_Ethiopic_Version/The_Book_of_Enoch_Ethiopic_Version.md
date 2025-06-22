@@ -42,8 +42,7 @@ source: https://dn790005.ca.archive.org/0/items/ethiopicversiono00charuoft/ethio
 
 ---
 
-## MAIN CONTENT - A Diagrammatic Guide 
-
+## ONCE UPON A TIME, WHEN HUMANS AND ANGELS LIVED TOGETHER....
 
 
 ----
