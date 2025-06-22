@@ -24,7 +24,7 @@ source: https://dn790005.ca.archive.org/0/items/ethiopicversiono00charuoft/ethio
 
 
 
-# ONCE UPON A TIME, WHEN HUMANS AND ANGELS LIVED TOGETHER....
+# CHANGE_ME
 <details open>
 <summary>Click to show/hide the full disclaimer.</summary>
    
