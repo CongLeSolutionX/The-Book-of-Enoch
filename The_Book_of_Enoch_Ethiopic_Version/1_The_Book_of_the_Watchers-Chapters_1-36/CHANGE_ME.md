@@ -1,5 +1,5 @@
 ---
-created: 2025-06-18 05:31:26
+created: 2025-06-23 05:31:26
 author: Cong Le
 version: "1.0"
 license(s): MIT, CC BY-SA 4.0
@@ -12,7 +12,7 @@ source: https://dn790005.ca.archive.org/0/items/ethiopicversiono00charuoft/ethio
 > 
 > This is a working draft in progress
 > 
-> ![Loading...](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJuc3RzMGg1ZG1vdXhqamxtNWdycGY0YzJ2eGxtdTE2OGVrbTg1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378utDRnHtvhd85y/giphy.gif)
+> ![Loading...](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVjejV3dnVjc2o5MXd3eXBvcDR1cHlzbHQ1Z2R6YjY0ZHpmdjJ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hL9q5k9dk9l0wGd4e0/giphy.gif)
 >
 > gif image is provided by [Giphy](https://giphy.com)
 > 
@@ -24,7 +24,7 @@ source: https://dn790005.ca.archive.org/0/items/ethiopicversiono00charuoft/ethio
 
 
 
-# The Ethiopic Version of the Book of Enoch
+# CHANGE_ME
 <details open>
 <summary>Click to show/hide the full disclaimer.</summary>
    
@@ -42,76 +42,8 @@ source: https://dn790005.ca.archive.org/0/items/ethiopicversiono00charuoft/ethio
 
 ---
 
+## MAIN CONTENT - A Diagrammatic Guide 
 
-```mermaid
----
-title: "...⌛...🕰️⏳...⌛..."
-author: "Cong Le"
-version: "1.0"
-license(s): "MIT, CC BY-SA 4.0"
-copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
-config:
-  theme: base
----
-%%%%%%%% Mermaid version v11.4.1-b.14
-%%{
-  init: {
-    'flowchart': { 'htmlLabels': false },
-    'fontFamily': 'Luminari',
-    'themeVariables': {
-      'primaryColor': '#fc82',
-      'primaryTextColor': '#F8B229',
-      'primaryBorderColor': '#27AE60',
-      'secondaryColor': '#5229',
-      'secondaryTextColor': '#6C3483',
-      'lineColor': '#F8B229',
-      'fontSize': '25px'
-    }
-  }
-}%%
-flowchart LR
-     %% My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-question-marks-open-book-old-characters-background.png", label: "..🙉..👀..📖..", pos: "b", w: 200, h: 150, constraint: "off" }
-   
-  %% Opening_quote@{ shape: comment, label: "..👀..<br/>...ONCE UPON A TIME,<br/>WHEN HUMANS AND ANGELS LIVED TOGETHER...<br/>..👀.."}
-
-Opening_quote@{ shape: tag-doc, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMANS AND ANGELS LIVED TOGETHER...👀.."}
-
-```
-
-
-![Tutelage of Forbidden Arts (1 Enoch 7-8)](./ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8.png)
-
-
-> An expansive digital art landscape viewed slightly from above, showing ethereal Watchers with glowing wings instructing primitive humans around bonfires, surrounded by tools, mystical artifacts, and starry cosmic backdrops, emphasizing the contrast between divine illumination and earthly surroundings.
-
-
-
-<details open>
-<summary>Click to show/hide the metadata of this image.</summary>
-
-```json
-{
-    "prompt": "An expansive digital art landscape viewed slightly from above, showing ethereal Watchers with glowing wings instructing primitive humans around bonfires, surrounded by tools, mystical artifacts, and starry cosmic backdrops, emphasizing the contrast between divine illumination and earthly surroundings.",
-    "quality": "standard",
-    "size": "1792x1024",
-    "style": "vivid",
-    "imageId": "file-GA733xcE"
-  }
-  
-```
-
-</details>
-
-
-<details open>
-<summary>Click to show/hide the generative prompts for this image.</summary>
-
-> <ins>🏭♾️♻️ **Continuous Production** 🏗️ ⚒️⛓️⚔️⚙️🚧🚨</ins>
->
-> ![Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Prompt](./ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Prompts.png)
->
-> ![Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Request](./ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Request.png)
-</details>
 
 
 ----
