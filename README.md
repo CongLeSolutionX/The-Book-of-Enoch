@@ -1,5 +1,41 @@
-ONCE UPON A TIME, WHEN HUMANS AND ANGELS LIVED TOGETHER....
 
+----
+
+```mermaid
+---
+title: "❓...CongLeSolutionX....❓"
+author: "Cong Le"
+version: "1.0"
+license(s): "MIT, CC BY-SA 4.0"
+copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
+config:
+  theme: base
+---
+%%%%%%%% Mermaid version v11.4.1-b.14
+%%{
+  init: {
+    'flowchart': { 'htmlLabels': false },
+    'fontFamily': 'Luminari',
+    'themeVariables': {
+      'primaryColor': '#fc82',
+      'primaryTextColor': '#F8B229',
+      'primaryBorderColor': '#27AE60',
+      'secondaryColor': '#5229',
+      'secondaryTextColor': '#6C3483',
+      'lineColor': '#F8B229',
+      'fontSize': '25px'
+    }
+  }
+}%%
+flowchart LR
+     %% My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-question-marks-open-book-old-characters-background.png", label: "..🙉..👀..📖..", pos: "b", w: 200, h: 150, constraint: "off" }
+   
+  Opening_quote@{ shape: braces, label: "..👀..<br/>...ONCE UPON A TIME,<br/>WHEN HUMANS AND ANGELS LIVED TOGETHER...<br/>..👀.."}
+
+
+```
+
+----
 
 ![Tutelage of Forbidden Arts (1 Enoch 7-8)](./The_Book_of_Enoch_Ethiopic_Version/ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Pic2.png)
 
@@ -30,4 +66,40 @@ ONCE UPON A TIME, WHEN HUMANS AND ANGELS LIVED TOGETHER....
 >
 > ![Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Request](./The_Book_of_Enoch_Ethiopic_Version/ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Request.png)
 </details>
+
+
+```mermaid
+---
+title: "❓...CongLeSolutionX....❓"
+author: "Cong Le"
+version: "1.0"
+license(s): "MIT, CC BY-SA 4.0"
+copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
+config:
+  theme: base
+---
+%%%%%%%% Mermaid version v11.4.1-b.14
+%%{
+  init: {
+    'flowchart': { 'htmlLabels': false },
+    'fontFamily': 'Luminari',
+    'themeVariables': {
+      'primaryColor': '#fc82',
+      'primaryTextColor': '#F8B229',
+      'primaryBorderColor': '#27AE60',
+      'secondaryColor': '#5229',
+      'secondaryTextColor': '#6C3483',
+      'lineColor': '#F8B229',
+      'fontSize': '25px'
+    }
+  }
+}%%
+flowchart LR
+     My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-question-marks-open-book-old-characters-background.png", label: "..🙉..👀..📖..", pos: "b", w: 200, h: 150, constraint: "off" }
+   
+  %% Opening_quote@{ shape: braces, label: "..👀..<br/>...ONCE UPON A TIME,<br/>WHEN HUMANS AND ANGELS LIVED TOGETHER...<br/>..👀.."}
+
+
+```
+
 
