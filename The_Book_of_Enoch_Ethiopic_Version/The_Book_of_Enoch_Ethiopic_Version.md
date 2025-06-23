@@ -57,7 +57,7 @@ config:
 %%{
   init: {
     'flowchart': { 'htmlLabels': false },
-    'fontFamily': 'Luminari',
+    'fontFamily': 'Bradley Hand',
     'themeVariables': {
       'primaryColor': '#fc82',
       'primaryTextColor': '#F8B229',
