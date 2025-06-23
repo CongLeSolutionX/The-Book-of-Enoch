@@ -106,7 +106,7 @@ Opening_quote@{ shape: tag-doc, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HU
 <details open>
 <summary>Click to show/hide the generative prompts for this image.</summary>
 
-> <ins>📢 **Disclaimer** 🚨</ins>
+> <ins>🏭♾️♻️ **Continuous Production** 🏗️ ⚒️⛓️⚔️⚙️🚧🚨</ins>
 >
 > ![Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Prompt](./ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Prompts.png)
 >
