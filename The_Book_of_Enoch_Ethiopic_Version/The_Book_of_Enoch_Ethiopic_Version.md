@@ -44,6 +44,21 @@ source: https://dn790005.ca.archive.org/0/items/ethiopicversiono00charuoft/ethio
 
 ## ONCE UPON A TIME, WHEN HUMANS AND ANGELS LIVED TOGETHER....
 
+![Tutelage of Forbidden Arts (1 Enoch 7-8)](./ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8.png)
+
+
+> An expansive digital art landscape viewed slightly from above, showing ethereal Watchers with glowing wings instructing primitive humans around bonfires, surrounded by tools, mystical artifacts, and starry cosmic backdrops, emphasizing the contrasts.
+
+<details open>
+<summary>Click to show/hide the generative prompts for this image.</summary>
+   
+> <ins>📢 **Disclaimer** 🚨</ins>
+>
+> ![Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Prompt](./ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Prompts.png)
+>
+> ![Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Request](./ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Request.png)
+</details>
+
 
 ----
 
