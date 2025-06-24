@@ -59,7 +59,7 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
 
 
 <details open>
-<summary>Click to show/hide the 🏭♾️♻️ <b>Continuous Production</b> 🏗️ ⚒️⛓️⚔️⚙️🚧🚨.</summary>
+<summary>Click to show/hide the ♾️ <b>Continuous Production</b> ♻️.</summary>
 
 > <ins>🏭♾️♻️ **Continuous Production** 🏗️ ⚒️⛓️⚔️⚙️🚧🚨</ins>
 >
