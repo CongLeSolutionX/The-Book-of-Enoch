@@ -104,7 +104,7 @@ Opening_quote@{ shape: tag-doc, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HU
 
 
 <details open>
-<summary>Click to show/hide the generative prompts for this image.</summary>
+<summary>Click to show/hide the ♾️ <b>Continuous Production</b> ♻️.</summary>
 
 > <ins>🏭♾️♻️ **Continuous Production** 🏗️ ⚒️⛓️⚔️⚙️🚧🚨</ins>
 >
