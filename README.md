@@ -72,6 +72,40 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
 > ![Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Request](./The_Book_of_Enoch_Ethiopic_Version/ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Request.png)
 </details>
 
+----
+
+## 📜 Chronicles of the Sacred Scrolls: Recent Whispers and Deeds
+
+<div align="left"><a name="project-current-activities"></a>
+
+<details open>
+<summary>Unfurl the scrolls to witness the latest tidings from this hallowed endeavor</summary>
+
+> powered by the mystical fonts of [OSS Insight](https://ossinsight.io)
+<!-- All the diagrams below are woven with enchantments from [OSS Insight](https://ossinsight.io/) -->
+
+| :bar_chart: Tablet of Ancient Records & Its Augury | :art: Visions in the Crystal Orb (Light Mode) |
+|---|---|
+| Keepers of the Lore :scroll::mage: from CongLeSolutionX/The-Book-of-Enoch - Within the Last Moon's Cycle (28 days) | ![Keepers of the Lore from CongLeSolutionX/The-Book-of-Enoch - Last 28 days](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=1006266693&limit=30&image_size=auto&color_scheme=light) <br/> :link: [Gaze Deeper into the Full Augury :mag:](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=1006266693&limit=30) |
+| New Verses Inscribed :arrow_up: and Chapters Penned :writing_hand: within CongLeSolutionX/The-Book-of-Enoch | ![New Verses and Chapters of CongLeSolutionX/The-Book-of-Enoch](https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=1006266693&image_size=auto&color_scheme=light) <br/> :link: [Gaze Deeper into the Full Augury :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=1006266693) |
+| The Measure of Added Wisdom :straight_ruler: to CongLeSolutionX/The-Book-of-Enoch | ![Measure of Wisdom for CongLeSolutionX/The-Book-of-Enoch](https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=1006266693&image_size=auto&color_scheme=light) <br/> :link: [Gaze Deeper into the Full Augury :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=1006266693) |
+| The Journey of New Teachings :arrows_counterclockwise: in CongLeSolutionX/The-Book-of-Enoch | ![Journey of Teachings in CongLeSolutionX/The-Book-of-Enoch](https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=1006266693&image_size=auto&color_scheme=light) <br/> :link: [Gaze Deeper into the Full Augury :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged?repo_id=1006266693) |
+| Glyphs and Runes Transformed :computer::scroll: within CongLeSolutionX/The-Book-of-Enoch | ![Glyphs and Runes Transformed in CongLeSolutionX/The-Book-of-Enoch](https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=1006266693&image_size=auto&color_scheme=light) <br/> :link: [Gaze Deeper into the Full Augury :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=1006266693) |
+| The Scribes' Hours of Dedication :alarm_clock::date: to CongLeSolutionX/The-Book-of-Enoch | ![Scribes' Hours for CongLeSolutionX/The-Book-of-Enoch](https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution/thumbnail.png?repo_id=1006266693&period=last_1_year&zone=0&image_size=auto&color_scheme=light) <br/> :link: [Gaze Deeper into the Full Augury :mag:](https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution?repo_id=1006266693&period=last_1_year&zone=0) | 
+
+</details>
+
+</div>
+
+----
+
+<!-- 
+```mermaid
+%% Current Mermaid version
+info
+``` 
+-->
+
 
 ```mermaid
 ---
@@ -107,5 +141,9 @@ My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolution
 
 
 ```
+
+
+
+-----
 
 
