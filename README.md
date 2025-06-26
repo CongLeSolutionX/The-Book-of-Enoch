@@ -1,6 +1,6 @@
 
 <!--
-Let's make this gray area become grey matter, should we?
+Let's make this gray area become gray matter, should we?
 -->
 
 ----
