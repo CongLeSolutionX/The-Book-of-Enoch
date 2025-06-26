@@ -91,8 +91,6 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
 </div>
 
 
-
-
 <div align="left"><a name="project-current-activities"></a>
 
 <details open>
@@ -113,6 +111,15 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
 </details>
 
 </div>
+
+---
+
+<div align="center">
+	<img alt="Current Activity" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1jdjA4MTcza2JjNTRrZHFzYXl3NGR3cG4wdzVlYmJxcHFoNzl0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IL6uGN8mrzeWr4BfV4/giphy.gif"/>
+	<br/>
+	<blockquote>gif image is provided by <a href="https://giphy.com">Giphy</a></blockquote>
+</div>
+
 
 ----
 
