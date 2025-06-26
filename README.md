@@ -1,6 +1,8 @@
 
 ----
 
+<div align="center">
+
 ```mermaid
 ---
 title: "...⌛...🕰️...CongLeSolutionX...⏳...⌛..."
@@ -35,6 +37,8 @@ flowchart LR
 Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMANS AND ANGELS LIVED TOGETHER...👀.."}
 
 ```
+
+</div>
 
 ----
 
