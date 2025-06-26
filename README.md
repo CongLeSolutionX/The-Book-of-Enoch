@@ -41,6 +41,14 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
 </div>
 
 ----
+<div align="center">
+  <blockquote>
+    Hark,<br/>
+    for the veil lifts upon another vision,<br/>
+    inscribed in the style of ages past:
+  </blockquote>
+</div>
+
 
 ![Tutelage of Forbidden Arts (1 Enoch 7-8)](./The_Book_of_Enoch_Ethiopic_Version/ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Pic2.png)
 
