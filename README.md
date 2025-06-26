@@ -123,6 +123,8 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
 
 ----
 
+<div align="center">
+
 <!-- 
 ```mermaid
 %% Current Mermaid version
@@ -165,5 +167,7 @@ My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolution
 
 
 ```
+
+</div>
 
 -----
