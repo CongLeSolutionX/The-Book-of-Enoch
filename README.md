@@ -84,6 +84,15 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
 
 ## 📜 Chronicles of the Sacred Scrolls: Recent Whispers and Deeds
 
+<div align="center">
+	<img alt="Cartographic Goals" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVlOXMzaWJpc3J2azBqN3N4ZmtpMGMxZHBsNjBwM3oydmVmcnB2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F0QWePzwQRewM/giphy.gif"/>
+	<br/>
+	<blockquote>gif image is provided by <a href="https://giphy.com">Giphy</a></blockquote>
+</div>
+
+
+
+
 <div align="left"><a name="project-current-activities"></a>
 
 <details open>
