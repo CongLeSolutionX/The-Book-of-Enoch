@@ -47,7 +47,7 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
 > A panoramic oil painting of luminous angelic beings teaching ancient humans forbidden knowledge: metalworking with swords and shields, crafting fine jewelry, blending shimmering cosmetics, and imparting astrology and sorcery, set in a sprawling ancient village under a star-filled night sky with glowing celestial light, capturing the mystique and gravity of the moment.
 
 <details open>
-<summary>Click to show/hide the metadata of this image.</summary>
+<summary>Unveil the script of this vision's genesis.</summary>
 
 ```json
 {
@@ -63,9 +63,9 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
 
 
 <details open>
-<summary>Click to show/hide the ♾️ <b>Continuous Production</b> ♻️.</summary>
+<summary>Peer into the ceaseless loom of ♾️ <b>Creation's Unending Tapestry</b> ♻️.</summary>
 
-> <ins>🏭♾️♻️ **Continuous Production** 🏗️ ⚒️⛓️⚔️⚙️🚧🚨</ins>
+> <ins>📜♾️♻️ **The Unbroken Chain of Creation's Forge** 🛠️🔥🔗🌌🔮🌟</ins>
 >
 > ![Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Prompt](./The_Book_of_Enoch_Ethiopic_Version/ASSETS/Tutelage_of_Forbidden_Arts_1_Enoch_7_8/Tutelage_of_Forbidden_Arts_1_Enoch_7_8_Prompts.png)
 >
@@ -142,8 +142,4 @@ My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolution
 
 ```
 
-
-
 -----
-
-
