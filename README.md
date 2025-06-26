@@ -2,8 +2,8 @@
 <!--
 Let's make this gray area a matter of gray, shall we?
 
-## Inquiries on Authorship and IP for Multi-Stage, AI-Driven Creative Works
 
+## Revised Inquiries on Authorship and IP for Multi-Stage, AI-Driven Creative Works
 
 **Preamble & Context:**
 
@@ -28,57 +28,6 @@ My contribution is the design, direction, and orchestration of this entire multi
 1.  **Protecting the Workflow as IP:** My defined methodology (the specific sequence of models, instructions, and parameters) consistently transforms a given source text into a predictable visual output. Can this entire creative *process* be considered a form of protectable intellectual property, such as a trade secret or a set of proprietary instructions?
 2.  **Licensing the Process and Its Textual Artifacts:** If the methodology is protectable, could it be licensed? Furthermore, can the textual outputs from the intermediate steps (i.e., the simplified English from Gemini and the final prompts from GPT-4) be licensed under frameworks like the **MIT License** (as functional components) or **Creative Commons** (as literary works)?
 3.  **Impact of System-Dependency:** The success and repeatability of this workflow are contingent on the specific models and versions used. Does this dependency on third-party systems affect the legal status or practical value of the methodology as licensable IP?
-
-***
-
-### **Diagram 1: Creative Workflow**
-
-This flowchart illustrates the multi-stage creative pipeline you have designed and orchestrated.
-
-```mermaid
-graph TD
-    subgraph My Role: Design & Orchestration
-        A[Start: Ancient Text in Public Domain] --> B{Step 1: Instruct Gemini LLM};
-        B --> C[Output: Simplified English Narrative];
-        C --> D{Step 2: Instruct GPT-4.1-mini LLM};
-        D --> E[Output: Detailed Image Prompts];
-        E --> F{Step 3: Execute Prompts in DALL-E 3};
-        F --> G[Output: Generated Visual Assets];
-        G --> H[Final Product: Assemble Comic Book];
-    end
-
-    style A fill:#e6e6fa,stroke:#333,stroke-width:2px
-    style H fill:#d4edda,stroke:#333,stroke-width:2px
-    style C fill:#fff2cc,stroke:#333,stroke-width:1px
-    style E fill:#fff2cc,stroke:#333,stroke-width:1px
-    style G fill:#fff2cc,stroke:#333,stroke-width:1px
-```
-
-### **Diagram 2: Intellectual Property Inquiries**
-
-This mind map organizes your legal and ethical questions into their core categories.
-
-```mermaid
-mindmap
-  root)"IP Inquiries for AI Workflow"(
-    Part 1: Authorship & Copyright
-      Question 1.1("Copyright in the complete derivative work (comic book)?")
-      Question 1.2
-        Authorship of individual AI-generated images?
-      Question 1.3
-        Legally sound attribution for my role?
-        (e.g., Creative Director, Process Designer)
-    Part 2: Methodology & Prompts as IP
-      Question 2.1
-        Can the entire creative process be protected IP?
-        (e.g., Trade Secret)
-      Question 2.2
-        Can the process & intermediate text be licensed?
-        (e.g., MIT License, Creative Commons)
-      Question 2.3
-        How does system-dependency affect IP status?
-```
-
 
 -->
 
