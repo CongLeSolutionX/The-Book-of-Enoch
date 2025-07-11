@@ -216,7 +216,7 @@ config:
   }
 }%%
 flowchart LR
-My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-question-marks-open-book-old-characters-background.png", label: "❓...CongLeSolutionX...❓", pos: "b", w: 200, h: 150, constraint: "off" }
+My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-and-question-marks-open-book-old-characters-background.png", label: "❓...C<char>o#770;</char>ngL<char>e#770;</char>SolutionX...❓", pos: "b", w: 200, h: 150, constraint: "off" }
    
 %% Opening_quote@{ shape: braces, label: "..👀..<br/>...ONCE UPON A TIME,<br/>WHEN HUMANS AND ANGELS LIVED TOGETHER...<br/>..👀.."}
 
