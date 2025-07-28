@@ -120,7 +120,7 @@ Opening_quote@{ shape: docs, label: "..👀.....ONCE UPON A TIME,<br/>WHEN HUMAN
   My goal is to share my perspective and contribute to the great work already being done.
   <br/>
   <br/>
-  I want to extend my genuine apologies to the creators of the original material.<br/>
+  I want to extend my genuine apologies to the creators of the original materials.<br/>
   Their work was the direct inspiration for this project, and I adapted it without first reaching out.<br/>
   My intent comes from a place of deep respect, and I hope this is received in the spirit of homage.<br/>
   🙏🏼🙏🏼🙏🏼🙏🏼
